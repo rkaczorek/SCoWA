@@ -1,0 +1,7 @@
+#define SECRET_SSID "ssid"
+#define SECRET_PASS "password"
+#define HOSTNAME "scowa"
+#define SERVOPIN 2
+#define SERVOMIN 500
+#define SERVOMAX 2500
+#define SERVOSPEED 20
